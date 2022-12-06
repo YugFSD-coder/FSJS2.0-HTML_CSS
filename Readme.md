@@ -20,7 +20,7 @@
 
 
 ### project 2
-[Link](./HTML%20%26%20CSS%20Assignments/Project%2002/Readme.mdf)
+[Link](./HTML%20%26%20CSS%20Assignments/Project%2002/Readme.md)
 
 ### project 3
 [Link](./HTML%20%26%20CSS%20Assignments/Project%2003/Readme.md)
