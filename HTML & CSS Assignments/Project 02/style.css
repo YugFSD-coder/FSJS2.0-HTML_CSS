@@ -1,0 +1,85 @@
+/* You can not modify anything in the HTML */
+/* You can only modify the CSS file */
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background: url("/assets/bg.png");
+}
+.navbar{
+    display: flex;
+    flex-direction: row;
+    background-color: #0b0b0b;
+   padding: 20px 80px; 
+}
+.navbar img{
+   height: 25px;
+   width: 80px;
+   padding-top: 10px ;
+   margin-right: 20px;
+   border-right: 2px solid #dedbdb;
+   padding-right: 40px; ;
+}
+.list{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;    
+}
+
+.list-item{
+    list-style: none;
+    color: #eaf1f7;
+    font-size: 12px;
+    /* font-family: Arial, Helvetica, sans-serif; */
+    font-weight: bold;
+    margin-right: 70px;
+}
+.button-small{
+    /* display: flex;
+    flex-direction: row-reverse; */
+    margin-left:200% ;    
+}
+.navbar div button{
+    background-color: #b31b9a;
+    border: 1px solid #b31b9a;
+    color: #ffff;
+    font-size: 12px;
+    /* font-family: Arial, Helvetica, sans-serif; */
+    font-weight: bold;
+    border-radius: 8px;
+    width: 150px;
+    height: 40px;  
+}
+.hero{
+    text-align: center;
+    color:#e5f0f0;
+}
+.hero-heading{
+    font-size: 70px;
+    /* font-family: Arial, Helvetica, sans-serif; */
+    padding-top: 100px ;  
+    padding-left:300px ;
+    padding-right:300px ;
+}
+.hero-description{
+    font-size: 24px;
+    font-weight: bold;
+}
+.hero button{
+    background-color: #b31b9a;
+    border: 1px solid #b31b9a ;
+    color: #eaeff4;
+    font-size: 18px;
+    font-weight: bold;
+    border-radius :10px;
+    width: 250px;
+    height: 50px;
+}
+ li:nth-child(1)::after  {
+    margin-left: 10px;  
+    color: #e5f0f0;
+    position: absolute;
+    transform:rotate(.25turn);
+    /* font-family: "fontAwesome"; */
+    content: ">";   
+}
