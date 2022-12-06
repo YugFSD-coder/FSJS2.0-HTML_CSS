@@ -8,7 +8,7 @@
 [code](./style.css)
 
 ### Output:
-![]
+![Alter Text](./Output.png)
 
 ### Deployed URL :
 [Ref. Link]()
