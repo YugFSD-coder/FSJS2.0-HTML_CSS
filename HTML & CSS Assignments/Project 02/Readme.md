@@ -8,7 +8,7 @@
 [code](./style.css)
 
 ### Output:
-![Alter Text](./Output.png)
+![Alter Text](./output.png)
 
 ### Deployed URL :
-[Ref. Link]()
+[Ref. Link](https://bright-wisp-a090cf.netlify.app/)

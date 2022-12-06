@@ -8,9 +8,9 @@
 [code](./style.css)
 
 ### Output:
-![Alter Text](./Output.png)
+![Alter Text](./output.png)
 
 ---
 
 ### Deployed URL :
-[Ref. Link]()
+[Ref. Link](https://fantastic-narwhal-2401f9.netlify.app/)
