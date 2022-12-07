@@ -38,8 +38,7 @@ body{
 }
 .list :hover{
     font-weight: bold;
-    /* text-decoration: underline;
-    text-underline-offset: 8px; */
+    
     border-bottom: 3px solid black;
 }
 .button-group{
@@ -49,13 +48,7 @@ body{
     
 }
 .search-icon{
-    /* transform: scale(0.7);
-  -webkit-transform: scale(0.7);
-  -moz-transform: scale(0.7);
-  -ms-transform: scale(0.7);
-  -o-transform: scale(0.7); */
-  /* width: 5px;
-  height: 10px; */
+    
     padding-right: 20px;
     padding-top: 5px;
 }
@@ -80,16 +73,19 @@ img[alt="globe-pattern"]
 }
 .globe  {
     position: absolute;
-    margin-left: 40%;
+    margin-left: 45%;
+    padding-top: 40px;
     
 }
 .star1{
-    background-color: blue;
-    padding-top: 40%;
+    position: absolute;
+    padding-top: 35%;
+    padding-left: 40%;
 }
 .star2{
     margin-left: 75%;
     position: absolute;
+    padding-top: 50px;
 }
 
 
@@ -97,7 +93,7 @@ img[alt="person-hero-iamge"]{
     position: relative;
     width: 350px;
     height: 450px;
-    left:0px;
+    left:50px;
     top:-150px;
     margin-top: 220px;
 }
@@ -107,7 +103,66 @@ img[alt="square-pattern"]{
     height: 300px;
     margin-top:270px ;
     margin-left: 175px;
+}
+.hero-container-right{
+    /* display: block; */
+    /* height: 70%;
+    width: 100%; */
+    margin-left: 120px;
+    text-align: center;
+    margin-top:110px;
 
+}
+.hero-heading{
+    font-size: 46px;
+    padding:40px 10px;
+    font-family: 'Orbitron', sans-serif;
+
+}
+p{
+    padding-left: 70px;
+    font-size: 14px;
+    padding-right: 30px;
+    padding-bottom: 70px;
+    color: #787c80;
+    font-family: sans-serif;
+}
+.button-email{
+    width:180px;
+    height: 30px;
+    border-radius: 10px;
+    font-size: 16px;
+    font-family: 'Orbitron', sans-serif;
+    color: #3e3f40;
+
+}
+.button-join{
+    width: 120px;
+    height: 30px;
+    border-radius: 10px;
+    margin-left: 10px;
+    font-family: 'Orbitron', sans-serif;
+    /* font-weight:bold; */
+    background-color: #080808;
+    color:#ffff;
+    font-size: 16px;
+
+}
+.contact-heading{
+    padding-top: 100px;
+    padding-left: 30px;
+    color: #3e3f40;
+    font-family: sans-serif;
+    padding-bottom: 20px;
+    font-size: medium;
+}
+.icons{
+    margin-left: 40px;
+}
+.icons span img{
+    width: 30px;
+    margin-right: 10px;
+   
 }
 
 

@@ -1,5 +1,5 @@
 **Project 2**
-# HTML-CSS-Seo-Services
+# HTML-CSS-Crypto-market
 
 ### Html :
 [code](./index.html)
