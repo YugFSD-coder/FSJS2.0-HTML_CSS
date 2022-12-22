@@ -36,7 +36,7 @@
 
 ---
 ## HTML and CSS Extra Assignment:
-### Tailwind
 
-### Project1
+
+### Project1 (Tailwind)
 [link](./HTML%20and%20CSS%20%20Extra%20Assignment/01_Project-%20Credit%20Card%20Landing%20Page/Readme.md)
