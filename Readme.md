@@ -43,3 +43,6 @@
 
 ### Project 2 
 [link](./HTML%20and%20CSS%20%20Extra%20Assignment/02_Project-%20Hosting%20Site%20Landing%20Page/readme.md)
+
+### Project 3
+[link](./HTML%20and%20CSS%20%20Extra%20Assignment/03_Project-%20Gaming%20Landing%20Page/readme.md)
